@@ -1,7 +1,7 @@
 # MindInventoryLibs
 Provides all resources and libraries which you can use to give user experience better.
 
-![Awesome Mobile Libraries - MindInventory.](https://github.com/SimformSolutionsPvtLtd/MindInventoryLibs/blob/master/banner/mindinventory_banner.gif?raw=true)
+![Awesome Mobile Libraries - MindInventory.](https://github.com/TusharSanchaniya-mi/MindInventoryLibs/blob/main/banner/mindinventory_banner.gif?raw=true)
 
 # Awesome Mobile Libraries
 ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
